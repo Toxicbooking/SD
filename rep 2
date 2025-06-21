@@ -1,0 +1,7 @@
+npx create-next-app@latest my-vercel-site
+cd my-vercel-site
+git init
+git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git add .
+git commit -m "Initial Next.js commit"
+git push -u origin main
